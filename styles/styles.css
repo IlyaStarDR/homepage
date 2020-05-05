@@ -1,0 +1,30 @@
+.contacts li a.twitter:hover {
+    color: #08A0E9;
+}
+.contacts li a.mails:hover {
+    color: #D44638;
+}
+.contacts li a.instagram:hover {
+    color: #3f729B;
+}
+.lazy-trump {
+    display: none;
+}
+
+.image, .gif {
+    cursor: pointer;
+    background: inherit;
+    font: inherit;
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+#gif img { 
+    display: none; 
+}
+#gif:hover img { 
+    display: block; 
+}
+
+
