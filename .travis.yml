@@ -17,7 +17,7 @@ deploy:
   - provider: s3
     skip_cleanup: true
     access_key_id: 60ee005f-5b94-4241-ad6e-ab273cdbcff5
-    secret_access_key: 913aeb6c-f534-49a2-a1d1-7a248b1e9362
+    secret_access_key: 913aeb6c-f534-49a2-a1d1-7a248b1e9362gitgit
     bucket: "starodubtcev1909-staging"
     region: eu-central-1
     acl: public_read
