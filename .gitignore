@@ -3,3 +3,4 @@
 .stylelintrc.json
 /node_modules
 /package-lock.json
+/first_index.html
